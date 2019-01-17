@@ -10,4 +10,6 @@ spring.h2.console.enabled: "true"
 spring.h2.console.path: "/h2-customer-dev"
 management.server.port: "8091"
 name: "Developer"
+DB_CLOSE_ON_EXIT: "false"
+AUTO_SERVER: "true"
 
